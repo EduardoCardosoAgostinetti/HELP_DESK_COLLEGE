@@ -20,7 +20,7 @@ Node.js
 Express.js
 MySQL
 
-#Pré-requisitos
+# Pré-requisitos
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas e o bando de dados importado:
 
 Node.js
